@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey there, I'm Hashir Owais!
 
-<!--
-**HashirOwais/HashirOwais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm a software engineering student passionate about full-stack development, DevOps, and building impactful tools 🚀.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Hashir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HashirOwais&show_icons=true&theme=radical&count_private=true)
+
+---
+
+## 🔝 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HashirOwais&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HashirOwais&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+---
+
+## 🧠 Currently Exploring
+
+- Cloud infrastructure and self-hosting
+- Secure DevOps pipelines
+- Full-stack SaaS tools (like `NextPay` and `CloudCare`)
+
+Let’s build something cool! 💻
