@@ -86,7 +86,7 @@ I'm passionate about:
 A semi-automated system to generate tailored resumes and cover letters by combining a structured Personal Knowledge Base (PKB) with the Google Gemini API for advanced content generation. This project uses a Retrieval-Augmented Generation (RAG) architecture with a FastAPI backend, a Qdrant vector database, and a LaTeX-based document rendering service.
 
 ### [CloudCare – Daycare Management System](https://github.com/HashirOwais/CloudCare)
-A full-stack SaaS platform to streamline daycare operations, evolving from a simple script to a robust, feature-rich application deployed in a modern DevOps environment. Features include a React frontend, ASP.NET Core backend, PostgreSQL database, facial recognition for attendance, and automated expense logging.
+A full-stack SaaS platform to streamline daycare operations, evolving from a simple script to a robust, feature-rich application deployed in a modern DevOps environment. Features include a Blazor WASM frontend, ASP.NET Core backend, PostgreSQL database, facial recognition for attendance, and automated expense logging.
 
 ### [Azure Enterprise Solutions](https://github.com/HashirOwais/enterprise-azure-solutions)
 A collection of hands-on labs demonstrating advanced cloud and networking concepts in Microsoft Azure. The flagship project is a secure, multi-region Hub-and-Spoke network topology with centralized management and observability.
