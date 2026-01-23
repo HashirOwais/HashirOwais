@@ -82,8 +82,14 @@ I'm passionate about:
 
 ## 🚀 Projects
 
-### [PKB Agent – AI-Powered Resume & Cover Letter Generator](https://github.com/HashirOwais/PKB-Agent)
-A semi-automated system to generate tailored resumes and cover letters by combining a structured Personal Knowledge Base (PKB) with the Google Gemini API for advanced content generation. This project uses a Retrieval-Augmented Generation (RAG) architecture with a FastAPI backend, a Qdrant vector database, and a LaTeX-based document rendering service.
+### [VitalOS – Health Intelligence Platform](https://github.com/HashirOwais/VitalOS)
+A self-hosted, multi-tenant health intelligence platform that orchestrates biometric data, nutrition logs, and environmental context to provide agentic health coaching. This project runs on a bare-metal Kubernetes cluster and features a .NET 10 Microservices API, Python-based Garmin integration services, and a Blazor WASM frontend.
+
+### [UNIFlow – Student Productivity Tool](https://github.com/HashirOwais/Uniflow) (REC 2025 Programming Challenge Winner)
+A comprehensive productivity tool designed to help students manage academic schedules and workloads. Built with **React** (Shadcn), **Node.js**, **Express**, **Prisma ORM**, and **SQLite**. This project was the **1st Place Winner** of the REC 2025 Programming Challenge.
+
+### [NextPay – Subscription Manager CLI](https://github.com/HashirOwais/NextPay-Subscription_Simplifed) (Academic)
+A robust Java CLI application for tracking and managing subscriptions. Engineered with a heavy focus on software quality and validation, utilizing extensive testing methodologies including **Path Testing**, **Data-Flow Analysis**, **Boundary Value Analysis (BVA)**, **Equivalence Class Partitioning**, **Decision Tables**, and **State Transition Testing**. Features a clean **CI/CD pipeline** and 100% path coverage.
 
 ### [CloudCare – Daycare Management System](https://github.com/HashirOwais/CloudCare)
 A full-stack SaaS platform to streamline daycare operations, evolving from a simple script to a robust, feature-rich application deployed in a modern DevOps environment. Features include a Blazor WASM frontend, ASP.NET Core backend, PostgreSQL database, facial recognition for attendance, and automated expense logging.
