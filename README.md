@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Hashir Owais!
 
-A highly motivated Software Systems Engineering student with co-op experience in designing, developing, and deploying enterprise-grade applications. Skilled in .NET, C#, and modern web technologies, with a proven ability to translate business requirements into efficient, scalable software solutions. Passionate about DevOps, networking, cybersecurity, and architecting robust solutions, constantly exploring new technologies through hands-on homelab projects.
-
 ## 🔭 Interests
 
 I'm passionate about:
@@ -81,9 +79,6 @@ I'm passionate about:
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ## 🚀 Projects
-
-### [VitalOS – Health Intelligence Platform](https://github.com/HashirOwais/VitalOS)
-A self-hosted, multi-tenant health intelligence platform that orchestrates biometric data, nutrition logs, and environmental context to provide agentic health coaching. This project runs on a bare-metal Kubernetes cluster and features a .NET 10 Microservices API, Python-based Garmin integration services, and a Blazor WASM frontend.
 
 ### [UNIFlow – Student Productivity Tool](https://github.com/HashirOwais/Uniflow) (REC 2025 Programming Challenge Winner)
 A comprehensive productivity tool designed to help students manage academic schedules and workloads. Built with **React** (Shadcn), **Node.js**, **Express**, **Prisma ORM**, and **SQLite**. This project was the **1st Place Winner** of the REC 2025 Programming Challenge.
